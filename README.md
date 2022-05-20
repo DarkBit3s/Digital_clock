@@ -1,6 +1,9 @@
 # Digital_clock
 simple python based digital clock with the help of tkinter.
+
 Please install both png and python file in a same direcotry to avoid any error.
+
+
 If your computer having python3 install added with the tkinter ypu can run the program with simple.
 
 **USAGE**
