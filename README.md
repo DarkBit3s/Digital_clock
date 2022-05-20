@@ -11,5 +11,7 @@ For linux terminal and windows command prompt.
 _PYTHON digital.py_
 
 your output will look like this.
+
+
 ![image](https://user-images.githubusercontent.com/61233402/169501702-41795ffa-38ab-4b95-bed0-ea2507b358a0.png)
 
